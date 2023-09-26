@@ -1,2 +1,2 @@
 # CBTCIP
-CipherByte Technologies project repo
+This repo contains the works regarding data science projects offered by CipherByte Technologies !!!!
